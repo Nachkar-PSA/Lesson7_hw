@@ -64,8 +64,7 @@
 }
 
 .menu__list {
-    padding-top: 7px;
-    padding-left: 12px;
+    padding: 7px 12px;
 }
 
 .menu__item {
@@ -220,8 +219,7 @@
 .numbers {
     display: flex;
     justify-content: flex-end;
-    padding-right: 135px;
-    margin-bottom: 82px;
+    margin: 90px 0 0;
 }
 
 .btn__list {
