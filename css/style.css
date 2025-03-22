@@ -32,13 +32,11 @@
 
 .container {
     display: flex;
-    /* width: 1200px; */
     gap: 50px;
     padding: 171px 105px 90px 135px;
 }
 
 .sidebar {
-    /* width: 310px; */
     display: flex;
     flex-direction: column;
     height: 100%;
